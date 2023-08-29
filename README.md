@@ -1,5 +1,7 @@
 # Custom ProgressView Using iPhone 14 Pro Dynamic Island
 
+![Demo](Demo.gif)
+
 ## Overview
 
 This project showcases a custom ProgressView developed using SwiftUI, focusing on integrating Apple's new iPhone 14 Pro Dynamic Island feature. The dynamic island ensures a consistent and optimized user experience, adapting the UI to the device's form factor and orientation.
